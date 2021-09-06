@@ -195,6 +195,7 @@ button:hover {
 [class^='icon-'],
 [class*=' icon-'] {
     font-family: 'icomoon' !important;
+    speak-as: none;
     font-style: normal;
     font-weight: normal;
     font-variant: normal;
