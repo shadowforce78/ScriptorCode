@@ -30,7 +30,7 @@ footer {
 
 #progress {
     min-height: 3px;
-    background: #ff7986;
+    background: #725cf3;
     z-index: 15;
     width: 0;
 }
@@ -83,7 +83,7 @@ h1 {
     font-family: JetBrainsMono, sans-serif;
 }
 .pink {
-    color: #ff79c6;
+    color: #725cf3;
 }
 
 /* Modals */
@@ -195,7 +195,7 @@ button:hover {
 [class^='icon-'],
 [class*=' icon-'] {
     font-family: 'icomoon' !important;
-    speak-as: none;
+    speak: none;
     font-style: normal;
     font-weight: normal;
     font-variant: normal;
